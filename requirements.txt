@@ -1,6 +1,5 @@
-SpeechRecognition==3.14.3
-PyAudio==0.2.14
-numpy>=1.19.0
-torch>=2.0.0
-torchvision>=0.15.0
-opencv-python>=4.5.0
+streamlit
+google-generativeai
+pyttsx3
+SpeechRecognition==3.8.1
+requests
