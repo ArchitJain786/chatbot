@@ -1,0 +1,8 @@
+{
+  "builds": [
+    { "src": "krishisathi_ui.py", "use": "@vercel/python" }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "krishisathi_ui.py" }
+  ]
+}
